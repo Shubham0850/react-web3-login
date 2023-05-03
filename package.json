@@ -1,6 +1,6 @@
 {
   "name": "react-web3-login",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React hook for connecting to multiple Web3 wallets like MetaMask, Phantom, .....",
   "main": "lib/index.js",
   "scripts": {
